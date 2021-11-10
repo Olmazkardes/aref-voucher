@@ -1,0 +1,34 @@
+{
+    "erkekRolleri": ["", "", ""],
+    "erkek1": "",
+    "kız1": "",
+    "kızRolleri": ["", "", ""],
+    "kayıtcıRolü": "",
+    "kayıtsızRolü": "",
+
+    "vipRolü": "",
+    "boosterRolü": "",
+    "Suspecious": "",
+    "Family": "",
+  
+    "hgkanal": "", 
+
+
+    "tag": "",
+    "unTag": "",
+
+    "yes": "",
+    "no": "",
+
+    "footer": "Aref 💖 ",
+    "durum": "Aref 💖 ",
+    "botVoice": "",
+
+    "kurallar": "",
+    "guildID": "",
+
+    "prefix": ".",
+    "sahip": "",
+    "token": ""
+
+}
